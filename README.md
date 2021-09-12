@@ -69,7 +69,6 @@ or use the mixin from CDN:
 | w-screen | width: 100vw; |
 | w-min | width: min-content; |
 | w-max | width: max-content; |
-```
 
 ### License
 [The MIT License (MIT)](https://github.com/Awilum/asmcss-mixin-w/blob/master/LICENSE.txt)
