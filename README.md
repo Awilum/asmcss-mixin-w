@@ -13,7 +13,7 @@ npm install asmcss-mixin-w
 or use the mixin from CDN:
 
 ```html
-<script src="https://unpkg.com/asmcss-mixin-w@0.0.0/dist/js/asmcss-mixin-w.min.js"></script>
+<script src="https://unpkg.com/asmcss-mixin-w@^1/dist/js/asmcss-mixin-w.min.js"></script>
 ```
 
 ### Usage
