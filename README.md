@@ -1,6 +1,6 @@
 # asmcss-mixin-w
 
-A mixin that provides extended functionality to set the width of an element.
+A mixin for [Assembler CSS](https://github.com/asmcss/assembler) that provides extended functionality to set the width of an element.
 
 ### Installation
 
