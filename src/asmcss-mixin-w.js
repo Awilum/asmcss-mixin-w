@@ -17,6 +17,5 @@ AssemblerCSS.registerMixin("w", function (settings, fraction) {
         return `w: ${fraction};`;
     }
 
-
     return `w: ${(fraction.split("/")[0] / fraction.split("/")[1]) * 100}%;`
 });
