@@ -1,6 +1,14 @@
 {
   "name": "asmcss-mixin-w",
-  "version": "1.0.0",
+  "version": "0.0.0",
+  "description": "A mixin that provides extended functionality to set the width of an element.",
+  "repository": "https://github.com/Awilum/asmcss-mixin-w",
+  "bugs": "https://github.com/Awilum/asmcss-mixin-w/issues",
+  "homepage": "https://github.com/Awilum/asmcss-mixin-w",
+  "license": "MIT",
+  "contributors": [
+    "Sergey Romanenko <sergey.romanenko@flextype.org>"
+  ],
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
