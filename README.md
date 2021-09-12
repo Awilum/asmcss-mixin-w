@@ -71,6 +71,6 @@ or use the mixin from CDN:
 | w-max | width: max-content; |
 
 ### License
-[The MIT License (MIT)](https://github.com/Awilum/asmcss-mixin-w/blob/master/LICENSE.txt)
+[The MIT License (MIT)](https://github.com/Awilum/asmcss-mixin-w/blob/master/LICENSE)
 Copyright (c) 2021 [Sergey Romanenko](https://github.com/Awilum)
 
